@@ -1,4 +1,4 @@
 #!/bin/bash
-sudo -i
+# sudo -i
 pwd
 ll /root
