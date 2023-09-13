@@ -1,4 +1,5 @@
 #!/bin/bash
 # sudo -i
 pwd
-ll /root
+date
+ls /root
